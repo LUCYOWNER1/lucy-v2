@@ -86,10 +86,6 @@ buttons = [
         InlineKeyboardButton(
             text="help", callback_data="help_back"),
     ],
-    [
-        InlineKeyboardButton(
-            text="support", url="https://t.me/Lucy_support_group"
-    ],
 ]
 
 FallenRobot_IMG = "https://telegra.ph/file/336e96deae67b251c2a78.jpg"
