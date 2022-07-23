@@ -20,3 +20,8 @@ FOR DEPLOY ON HEROKU CLICK ON THE BUTTON ☟︎︎︎
   <img src="https://img.shields.io/badge/Deploy%20YOUR%20LUCY-black?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
 
 
+<h1 align="center">
+
+<b> AYRA BOT </b>
+
+</h1>
